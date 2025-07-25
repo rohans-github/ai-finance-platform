@@ -64,10 +64,8 @@ ai-finance-tracker/
 ├── 📄 app.py              # Complete application (Flask + Frontend)
 ├── 📄 requirements.txt    # Python dependencies
 ├── 📄 README.md           # This file
-├── 📄 LICENSE             # MIT License
 ├── 📄 .gitignore          # Git ignore rules
-├── 📁 screenshots/        # Demo images
-└── 📁 docs/              # Additional documentation
+└── 📁 docs/               # Final Report
 ```
 
 ## 🛠️ Technology Stack

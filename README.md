@@ -57,27 +57,17 @@ A full-stack personal finance management application with AI-powered insights, b
    http://localhost:5000
    ```
 
-## 📁 Project Structure
+## 📊 Project Structure
 
 ```
 ai-finance-tracker/
-│
-├── app.py                 # Flask backend with API routes
-├── requirements.txt       # Python dependencies
-├── README.md             # Project documentation
-├── .gitignore            # Git ignore rules
-│
-├── templates/
-│   └── index.html        # HTML template
-│
-├── static/
-│   ├── css/
-│   │   └── style.css     # Styling and animations
-│   └── js/
-│       └── app.js        # Frontend JavaScript logic
-│
-└── finance_tracker.db    # SQLite database (auto-created)
-```
+├── 📄 app.py              # Complete application (Flask + Frontend)
+├── 📄 requirements.txt    # Python dependencies
+├── 📄 README.md           # This file
+├── 📄 LICENSE             # MIT License
+├── 📄 .gitignore          # Git ignore rules
+├── 📁 screenshots/        # Demo images
+└── 📁 docs/              # Additional documentation
 
 ## 🛠️ Technology Stack
 

@@ -38,7 +38,7 @@ A full-stack personal finance management application with AI-powered insights, b
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-finance-tracker.git
+   git clone https://github.com/yourusername/ai-finance-platform.git
    cd ai-finance-tracker
    ```
 
@@ -54,7 +54,7 @@ A full-stack personal finance management application with AI-powered insights, b
 
 4. **Open your browser**
    ```
-   http://localhost:XXXX
+   http://localhost:5000
    ```
 
 ## 📁 Project Structure

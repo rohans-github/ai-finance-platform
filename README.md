@@ -38,8 +38,8 @@ A full-stack personal finance management application with AI-powered insights, b
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-finance-platform.git
-   cd ai-finance-platform
+   git clone https://github.com/yourusername/ai-finance-tracker.git
+   cd ai-finance-tracker
    ```
 
 2. **Install dependencies**

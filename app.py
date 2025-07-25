@@ -1,7 +1,3 @@
-# =============================================================================
-# File: app.py (Main Flask Backend)
-# =============================================================================
-
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
 import json

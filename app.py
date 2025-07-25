@@ -1184,7 +1184,7 @@ HTML_CONTENT = '''<!DOCTYPE html>
             
             // Test backend connection
             apiCall('/summary').then(() => {
-                document.getElementById('connectionStatus').textContent = '🔗 Connected to Python Backend';
+                document.getElementById('connectionStatus').textContent = '🔗 Rohan Chadha (CS4365)';
             }).catch(() => {
                 document.getElementById('connectionStatus').textContent = '❌ Backend Disconnected';
             });

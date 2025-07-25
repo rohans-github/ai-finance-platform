@@ -693,7 +693,7 @@ HTML_CONTENT = '''<!DOCTYPE html>
         <div class="header">
             <h1>🤖 AI Finance Tracker</h1>
             <p>Full-Stack Python + Frontend with Advanced AI Analytics</p>
-            <div class="status-badge" id="connectionStatus">🔗 Connected to Python Backend</div>
+            <div class="status-badge" id="connectionStatus">🔗 Rohan Chadha (CS4365)</div>
         </div>
 
         <div class="tabs">

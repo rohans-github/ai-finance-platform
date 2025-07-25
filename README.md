@@ -68,6 +68,7 @@ ai-finance-tracker/
 ├── 📄 .gitignore          # Git ignore rules
 ├── 📁 screenshots/        # Demo images
 └── 📁 docs/              # Additional documentation
+```
 
 ## 🛠️ Technology Stack
 
@@ -103,7 +104,6 @@ CREATE TABLE budgets (
     period TEXT DEFAULT 'monthly',
     created_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-```
 
 ## 📊 API Endpoints
 
